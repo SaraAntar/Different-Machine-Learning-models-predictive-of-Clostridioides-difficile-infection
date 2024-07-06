@@ -1,0 +1,3 @@
+Microbiota-based markers predictive of development of Clostridioides difficile infection
+
+Antibiotic-induced modulation of the intestinal microbiota can lead to Clostridioides difficile infection (CDI), which is associated with considerable morbidity, mortality, and healthcare-costs globally. Therefore, identification of markers predictive of CDI could substantially contribute to guiding therapy and decreasing the infection burden
